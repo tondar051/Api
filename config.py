@@ -1,4 +1,4 @@
-token = '387149150:AAES8aSh0GdsIUtJVEgff8XoAMiOrSuIEeo'
+token = '398124172:AAFOMtgFHDPX8k4Eu9xImAXo8mo5I9Dk3-8'
 is_sudo = '68853039' #@This_Is_Amir
 relam = '-133494595'
 #  ___   __  __ _       _   _     _____                                                                                                                     
